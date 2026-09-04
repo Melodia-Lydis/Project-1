@@ -15,7 +15,29 @@ h2 {
 }
 
 hr { 
-    color: #912323
+    color: #body {
+    background-color: #ffc1d1;
+    font-family: sans-serif;
+    padding-bottom: 30px;
+    padding: 0px 5% 30px;
+}
+
+h1 {
+    color: rgb(128, 26, 26);
+    text-align: center;
+}
+
+h2 {
+    color: #ba385f;
+}
+
+hr { 
+    color: #912323;
+}
+
+img {
+    width: 250px;
+}
 }
 
 img {
