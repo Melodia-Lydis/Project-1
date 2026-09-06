@@ -26,11 +26,6 @@ hr {
 <img src="https://i.pinimg.com/originals/e3/8d/81/e38d817240bda953f9c153eaca71c46e.jpg" class="image1">
 <img src="https://i.pinimg.com/736x/1a/0a/d5/1a0ad58944795ec4983ef0378d92e5e1.jpg" class="image2">
 
-.image1
-{
-width:250px;;
-}
-.image2
-{
-width:250px;;
+img {
+    width: 250px;
 }
