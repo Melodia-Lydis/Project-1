@@ -24,6 +24,6 @@ hr {
 }
 
 img {
-    float: center;
+    align: center;
     width: 250px;
 }
