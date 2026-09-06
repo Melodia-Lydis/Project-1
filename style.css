@@ -13,9 +13,6 @@ h1 {
 h2 {
     color: #ba385f;
 }
-h2 {
-    text-align: left;
-}
 
 hr { 
     color: #body {
@@ -34,6 +31,9 @@ h2 {
     color: #ba385f;
 }
 
+p {
+    text-align: left;
+}
 hr { 
     color: #912323;
 }
