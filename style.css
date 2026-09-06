@@ -15,33 +15,9 @@ h2 {
 }
 
 hr { 
-    color: #body {
-    background-color: #ffc1d1;
-    font-family: sans-serif;
-    padding-bottom: 30px;
-    padding: 0px 5% 30px;
-}
-
-h1 {
-    color: rgb(128, 26, 26);
-    text-align: center;
-}
-
-h2 {
-    color: #ba385f;
-}
-
-p {
-    text-align: right;
-}
-hr { 
-    color: #912323;
-}
-    
-img {
-    height: 10px;
+    color: #020202
 }
 
 img {
-    width: 10px;
+    width: 250px;
 }
