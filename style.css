@@ -15,8 +15,8 @@ h2 {
 }
 
 hr {
-  display: block;
-  height: 1px;
+  display: dash;
+  height: 5px;
   border: 0;
   border-top: 1px solid #fcfbfb;
   margin: 1em 0;
