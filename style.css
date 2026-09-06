@@ -14,10 +14,6 @@ h2 {
     color: #ba385f;
 }
 
-p {
-    text-align: right;
-}
-
 hr {
   display: block;
   height: 5px;
@@ -29,4 +25,7 @@ hr {
 
 img {
     width: 250px;
+}
+img {
+    float: center;
 }
