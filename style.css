@@ -24,5 +24,6 @@ hr {
 }
 
 img {
+    float: center;
     width: 250px;
 }
