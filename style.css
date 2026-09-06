@@ -18,6 +18,10 @@ hr {
     color: #020202
 }
 
+hr.new2 {
+  border-top: 1px dashed white;
+}
+
 img {
     width: 250px;
 }
