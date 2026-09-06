@@ -14,11 +14,15 @@ h2 {
     color: #ba385f;
 }
 
-hr { 
-    color: #fcfbfb
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #fcfbfb;
+  margin: 1em 0;
+  padding: 0;
 }
 
 img {
-    align: right;
     width: 250px;
 }
